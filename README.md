@@ -1,43 +1,59 @@
-<h2 align="left">Hi 👋! My name is Shibiyarasu and I'm a Full-Stack Developer from India.</h2>
+<h1 align="center">Hi 👋, I'm Shibiyarasu K B</h1>
+<h3 align="center">Full-Stack Developer | BTech IT Student | Tech Explorer</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shibiyarasu-KB&label=Profile%20views&color=0e75b6&style=flat" alt="Shibiyarasu-KB" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shibiyarasu-KB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shibiyarasu-KB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
-###
+🌱 I’m currently a **3rd year BTech IT student** exploring the world of technology and development.  
+💡 Passionate about building real-world projects using **React**, **Python**, **Java**, **Flask**, and **MongoDB**.  
+🧠 I love working on **web apps**, **full-stack projects**, and exploring areas like **AI**, **cybersecurity**, and **UI/UX**.  
+🚀 Participated in **hackathons**, completed **internships**, and always hungry to learn and build.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+---
 
-###
+### 🔧 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask" />
-  <img src="download.png" height="30" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-</div>
+- 🌐 Frontend: `HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`
+- 🧠 Backend: `Python`, `Flask`, `Java`, `Spring Boot`, `PHP`
+- 🗄️ Databases: `MySQL`, `MongoDB`
+- 📊 Others: `Git`, `GitHub`, `Postman`, `Netlify`, `Vercel`
+- ☁️ Learning: `Machine Learning`, `App Dev with Flutter`, `Deep Learning`, `AI Chatbots`
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shibiyarasu/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:shibiyarasu@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+### 🧠 Certifications & Learning
 
-###
+- 🏅 Python (Basic) – HackerRank  
+- 🏅 Problem Solving (Basic) – HackerRank  
+- 🎓 Meta Front-End Developer – In Progress  
+- ✅ Intro to UI/UX – Great Learning  
+- 🧪 Cybersecurity Internship – CSUITE Tech Labs  
+- 📘 Python Courses – IITM, GUVI, GreatLearning
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/Shibiyarasu-KB/Shibiyarasu-KB/output/snake.svg" alt="Snake animation" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shibiyarasu-KB&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shibiyarasu-KB&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shibiyarasu-kb)
+- 🌐 [GitHub](https://github.com/Shibiyarasu-KB)
+- 📬 Email: shibiyarasukb@example.com *(replace with real if you want)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
